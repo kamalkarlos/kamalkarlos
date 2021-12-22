@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamalkarlos
+- 👋 Hi, I’m @CapitosKamal
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python . Perl . PHP . Ruby
 - 💞️ I’m looking to collaborate on Anything
